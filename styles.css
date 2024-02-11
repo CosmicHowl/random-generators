@@ -1,0 +1,40 @@
+* {
+    margin: 0 30px 0 30px;
+    background: slateblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: lavender;
+    border-style: double;
+    border-color: slategray;
+    border-radius: 0 45px 0 45px;
+}
+
+p {
+    padding: 15px 20% 15px 20%;
+    background-color: lavender;
+    margin: 5 -15% 5 -15%;
+    border-radius: 45px 0 45px 45px;
+    border-style: double;
+    border-color: slategray;
+}
+
+#available {
+    background-color: coral;
+    padding: 20px;
+    border-radius: 0 45px 0 45px;
+}
+
+ul li {
+    display: flexbox;
+    background-color: peachpuff;   
+}
+
+li {
+    background-color: peachpuff;
+}
+
+a {
+    background-color: peachpuff;
+}
